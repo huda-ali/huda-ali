@@ -29,7 +29,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Coding.gif" width="320"/>
 
-I'm a **Computer Science student** passionate about **Software Engineering**, **Data Science**, and **Competitive Programming**. I enjoy building full stack applications, solving algorithmic problems, and continuously learning modern software development practices.
+I'm a **Computer Science student** passionate about **Software Engineering**, **Data Science**, and **Problem Solving**. I enjoy building full stack applications, solving algorithmic problems, and continuously learning modern software development practices.
 
 I'm currently focused on strengthening my skills in **ASP.NET Core**, **C#**, **Java**, **SQL Server**, and **AI fundamentals** while working on real-world projects and preparing for software engineering internships.
 
@@ -108,24 +108,36 @@ Currently Looking For:
 ---
 
 ## 🚀 Featured Projects
-
 <details>
-<summary><b>🔹 Project Alpha — AI-Powered Analytics Platform</b></summary>
+<summary><b>🏡 SMSRLY – AI-Powered Property Recommendation Platform (Best Project in Group)</b></summary>
 
 <br/>
 
-An enterprise-grade analytics platform that uses machine learning to generate predictive insights from real-time data streams, serving thousands of concurrent users with sub-second latency.
+A full-stack real estate platform that connects tenants directly with property owners while delivering personalized property recommendations through a custom machine learning recommendation service. The project was developed as a graduation project under the Digital Egypt Pioneers Initiative (DEPI) and was recognized as the **Best Project in the Group**.
 
 | Category | Details |
 |:--|:--|
-| **Stack** | React, Node.js, Python, PostgreSQL, Redis, AWS |
-| **Scale** | 500K+ requests/day, 10K+ active users |
-| **Performance** | Sub-200ms average API response time |
-| **Security** | OAuth2, JWT, RBAC, encrypted data at rest |
-| **Impact** | Reduced manual reporting time by 70% |
-| **Repository** | [View Repo](https://github.com/YOUR_USERNAME/project-alpha) |
+| **Architecture** | Three-Tier Architecture (Presentation, Business Logic, Data Access) |
+| **Backend** | ASP.NET Core (.NET 10), Entity Framework Core, SQL Server |
+| **Frontend** | React + Vite |
+| **Machine Learning** | Python Recommendation Service |
+| **Infrastructure** | Docker, Redis, Nginx |
+| **Authentication** | JWT Authentication, BCrypt Password Hashing |
+| **Authorization** | Role-Based Access Control (Admin, Owner, Tenant) |
+| **Features** | Property CRUD, AI-Powered Recommendations, Swagger API, EF Core Migrations |
+| **Deployment** | Docker/Podman Containerized Deployment |
+| **Recognition** | 🏆 Best Project in the Group (DEPI Graduation Project) |
+| **Repository** | [View Repository](https://github.com/huda-ali/smsrly-web-platform) |
 
-Built with a microservices architecture deployed on AWS ECS, this platform demonstrates end-to-end ownership from data ingestion to ML-driven insight generation, with a strong focus on observability and horizontal scalability.
+### Key Highlights
+
+- Designed and implemented a scalable three-tier architecture following clean architecture principles.
+- Built secure authentication and role-based authorization using JWT and BCrypt.
+- Developed RESTful APIs for property management and user operations.
+- Integrated a Python-based machine learning recommendation engine with the ASP.NET Core backend.
+- Containerized the complete application using Docker with Nginx as a reverse proxy.
+- Documented and tested APIs using Swagger.
+- Built a responsive React frontend communicating seamlessly with the backend services.
 
 </details>
 
