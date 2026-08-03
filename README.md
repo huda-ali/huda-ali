@@ -141,7 +141,6 @@ A full-stack real estate platform that connects tenants directly with property o
 
 </details>
 
-<details><details>
 <summary><b>📡 Monitex — End-to-End Event-Driven IoT Monitoring & Anomaly Detection Suite</b></summary>
 
 <br/>
@@ -226,30 +225,21 @@ Contributed to improving the mathematical reasoning capabilities of Large Langua
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=7B2CBF&text_color=c9d1d9&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=9D4EDD&fire=7B2CBF&currStreakLabel=9D4EDD" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=huda-ali&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=7B2CBF&text_color=c9d1d9&count_private=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=huda-ali&theme=tokyonight&hide_border=true&background=0D1117&ring=9D4EDD&fire=7B2CBF&currStreakLabel=9D4EDD" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&text_color=c9d1d9" width="49%"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=discord&no-frame=true&column=7&margin-w=15&margin-h=15&title=Commits,Stars,Followers,PullRequest,Issues,Repositories,Experience" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huda-ali&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&text_color=c9d1d9" width="49%"/>
 
 </div>
 
 ---
+
 
 ## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&color=9D4EDD&line=7B2CBF&point=ffffff" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=huda-ali&theme=react-dark&hide_border=true&bg_color=0D1117&color=9D4EDD&line=7B2CBF&point=ffffff" width="100%"/>
 
 </div>
 
@@ -259,7 +249,7 @@ Contributed to improving the mathematical reasoning capabilities of Large Langua
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/huda-ali/huda-ali/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
@@ -269,22 +259,29 @@ Contributed to improving the mathematical reasoning capabilities of Large Langua
 
 ```yaml
 Learning:
-  - Advanced Distributed Systems Design
-  - LLM Fine-Tuning & RAG Architectures
-  - Kubernetes at Scale
+  - System Design
+  - Spring Boot
+  - Angular & Sass
+  - Cloud Computing (Azure & Docker)
+  - Machine Learning & Data Analysis
 
 Building:
-  - AI-powered developer tooling
-  - Open source contributions to ML infrastructure projects
+  - Full Stack Web Applications with ASP.NET Core & Angular
+  - AI-powered Software Solutions
+  - End-to-End Backend Systems
+  - Open Source Projects
 
 Exploring:
-  - Agentic AI systems
-  - Edge computing & serverless ML inference
+  - Distributed Systems
+  - Event-Driven Architecture
+  - Internet of Things (IoT)
+  - Large Language Models (LLMs)
 
 Open To:
-  - Full-Time Software Engineering Roles
-  - AI / ML Engineering Opportunities
-  - Collaborations & Freelance Projects
+  - Software Engineering Internships
+  - Junior Software Engineer Roles
+  - Backend Development Opportunities
+  - Open Source Collaboration
 ```
 
 ---
