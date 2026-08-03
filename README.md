@@ -173,6 +173,8 @@ A distributed, event-driven IoT platform designed to bridge smart devices with i
 - Implemented a reliable messaging pipeline that decouples data ingestion, processing, storage, and AI inference for improved scalability and fault tolerance.
 
 </details>
+
+
 ## 💼 Experience
 
 ### **Software Engineering Intern**
@@ -205,43 +207,7 @@ Contributed to improving the mathematical reasoning capabilities of Large Langua
 
 ---
 
-## 🏆 Achievements
 
-<div align="center">
-
-| Recognition | Details |
-|:--|:--|
-| 🥇 Hackathon Winner | 1st Place, National Level AI Hackathon 2024 |
-| 🌟 Open Source Contributor | 500+ contributions across major OSS repositories |
-| 🎓 Academic Excellence | Top 5% of graduating class |
-| 📝 Technical Writer | Published articles reaching 50K+ developers |
-| 🚀 Product Launch | Led launch of feature adopted by 10K+ users |
-
-</div>
-
----
-
-## 📜 Certifications
-
-**AWS**
-
-![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect-9D4EDD?style=flat-square&logo=amazonaws&logoColor=white)
-![AWS Certified Developer](https://img.shields.io/badge/AWS%20Certified-Developer%20Associate-7B2CBF?style=flat-square&logo=amazonaws&logoColor=white)
-
-**Oracle**
-
-![Oracle Certified](https://img.shields.io/badge/Oracle%20Certified-Java%20Professional-5A189A?style=flat-square&logo=oracle&logoColor=white)
-
-**NPTEL**
-
-![NPTEL](https://img.shields.io/badge/NPTEL-Machine%20Learning-3C096C?style=flat-square&logo=googlescholar&logoColor=white)
-![NPTEL](https://img.shields.io/badge/NPTEL-Cloud%20Computing-240046&style=flat-square&logo=googlescholar&logoColor=white)
-
-**Cisco**
-
-![Cisco](https://img.shields.io/badge/Cisco-CCNA%20Certified-9D4EDD?style=flat-square&logo=cisco&logoColor=white)
-
----
 
 ## 👨‍💻 Coding Profiles
 
@@ -327,10 +293,10 @@ Open To:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-240046?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-3C096C?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-5A189A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7B2CBF?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.dev)
+[![Gmail](https://img.shields.io/badge/Gmail-240046?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hudaalifoad51@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-3C096C?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/huda-ali-foad)
+[![GitHub](https://img.shields.io/badge/GitHub-5A189A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huda-ali)
+
 
 </div>
 
