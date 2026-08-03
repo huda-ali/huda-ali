@@ -141,6 +141,7 @@ A full-stack real estate platform that connects tenants directly with property o
 
 </details>
 
+<details>
 <summary><b>📡 Monitex — End-to-End Event-Driven IoT Monitoring & Anomaly Detection Suite</b></summary>
 
 <br/>
