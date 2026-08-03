@@ -141,74 +141,67 @@ A full-stack real estate platform that connects tenants directly with property o
 
 </details>
 
-<details>
-<summary><b>🔹 Project Beta — Real-Time Collaboration Suite</b></summary>
+<details><details>
+<summary><b>📡 Monitex — End-to-End Event-Driven IoT Monitoring & Anomaly Detection Suite</b></summary>
 
 <br/>
 
-A real-time collaborative workspace supporting concurrent multi-user editing, live cursors, and conflict-free document synchronization at scale.
+A distributed, event-driven IoT platform designed to bridge smart devices with intelligent analytics. Monitex leverages MQTT, AMQP, SignalR, and machine learning to enable resilient sensor data ingestion, real-time monitoring, and anomaly detection through a scalable microservices-inspired architecture.
 
 | Category | Details |
 |:--|:--|
-| **Stack** | Next.js, WebSockets, Node.js, MongoDB, Docker |
-| **Scale** | 50K+ documents synced concurrently |
-| **Performance** | <100ms sync latency across clients |
-| **Security** | End-to-end encryption, granular access control |
-| **Impact** | Adopted by 200+ teams within 3 months |
-| **Repository** | [View Repo](https://github.com/YOUR_USERNAME/project-beta) |
+| **Architecture** | Event-Driven Architecture, Clean Architecture, Repository Pattern |
+| **Backend** | ASP.NET Core, SignalR, MQTT, RabbitMQ (AMQP) |
+| **Frontend** | Angular |
+| **Databases** | PostgreSQL, InfluxDB (Time-Series Database) |
+| **Edge Computing** | ESP32, MQTT, mDNS (Avahi) |
+| **AI / ML** | Python, Scikit-learn, Joblib, Anomaly Detection Pipeline |
+| **Infrastructure** | Docker, Mosquitto, RabbitMQ, Nginx |
+| **Real-Time Communication** | SignalR |
+| **Deployment** | Fully Containerized with Docker Compose |
+| **Repository** | [View Repository](https://github.com/Martell0x1/Monitex) |
 
-Engineered using CRDT-based conflict resolution to guarantee consistency across distributed clients, with a containerized deployment pipeline for zero-downtime releases.
+### Key Highlights
 
-</details>
-
-<details>
-<summary><b>🔹 Project Gamma — Intelligent Document Processing Engine</b></summary>
-
-<br/>
-
-An NLP-driven pipeline that automates extraction, classification, and summarization of unstructured documents at enterprise scale.
-
-| Category | Details |
-|:--|:--|
-| **Stack** | Python, FastAPI, Transformers, PostgreSQL, GCP |
-| **Scale** | 1M+ documents processed monthly |
-| **Performance** | 95%+ extraction accuracy |
-| **Security** | PII redaction, audit logging, encrypted storage |
-| **Impact** | Cut document processing costs by 60% |
-| **Repository** | [View Repo](https://github.com/YOUR_USERNAME/project-gamma) |
-
-Combines fine-tuned transformer models with a rule-based validation layer, exposed via a horizontally scalable FastAPI service deployed on GCP Cloud Run.
+- Designed a resilient event-driven architecture using MQTT and RabbitMQ for high-throughput sensor data processing.
+- Developed scalable ASP.NET Core backend services following Clean Architecture and Repository Pattern principles.
+- Built a real-time Angular dashboard powered by SignalR for live monitoring of devices and sensor telemetry.
+- Integrated PostgreSQL for relational data and InfluxDB for efficient time-series storage.
+- Developed a Python-based anomaly detection pipeline that analyzes historical sensor data and predicts abnormal events.
+- Connected ESP32 edge devices to the platform using MQTT with automatic broker discovery through mDNS (Avahi).
+- Containerized the complete ecosystem using Docker Compose, including backend services, frontend, AI service, RabbitMQ, Mosquitto, PostgreSQL, and InfluxDB.
+- Implemented a reliable messaging pipeline that decouples data ingestion, processing, storage, and AI inference for improved scalability and fault tolerance.
 
 </details>
-
----
-
 ## 💼 Experience
 
-### **Software Engineer**
-**Company Name Inc.** | *Jan 2023 — Present*
+### **Software Engineering Intern**
+**Accord Business Group (ABG)** | *Jun 2026 – Sep 2026*
 
-Leading full stack and AI feature development for a high-growth SaaS platform, driving architecture decisions across the product engineering org.
+Worked as a Software Engineering Intern, contributing to the development of enterprise web applications and backend services.
 
-- Designed and shipped microservices handling millions of daily transactions
-- Built and deployed ML-powered recommendation features increasing engagement by 25%
-- Led migration to cloud-native infrastructure, reducing operational costs by 30%
-- Mentored junior engineers and established code review best practices
+- Developed and maintained backend features using ASP.NET Core and C#.
+- Built and consumed RESTful APIs following clean architecture principles.
+- Worked with SQL Server and Entity Framework Core for database operations.
+- Collaborated with the development team using Git and Agile practices.
+- Participated in debugging, testing, and implementing new business requirements.
 
-`System Design` `AI/ML` `React` `Node.js` `AWS` `Leadership`
+`ASP.NET Core` `C#` `Entity Framework Core` `SQL Server` `REST APIs` `Git`
 
 <br/>
 
-### **Software Engineering Intern**
-**Previous Company Ltd.** | *Jun 2022 — Dec 2022*
+### **AI Mathematical Trainer**
+**Outlier AI** | *Sep 2024 – Mar 2025*
 
-Contributed to core backend services and internal tooling for a fast-paced engineering team.
+Contributed to improving the mathematical reasoning capabilities of Large Language Models (LLMs) by evaluating, validating, and refining AI-generated solutions.
 
-- Developed RESTful APIs consumed by 5+ internal teams
-- Optimized database queries, reducing average response times by 40%
-- Automated CI/CD pipelines, cutting deployment time in half
+- Evaluated AI-generated mathematical solutions across various domains.
+- Provided detailed feedback to improve model accuracy and reasoning quality.
+- Solved advanced mathematical and logical reasoning tasks.
+- Ensured high-quality outputs by following strict AI evaluation guidelines.
+- Collaborated on projects focused on enhancing LLM performance.
 
-`Python` `Django` `PostgreSQL` `CI/CD` `Docker`
+`Artificial Intelligence` `LLMs` `Mathematics` `Prompt Evaluation` `Problem Solving`
 
 ---
 
