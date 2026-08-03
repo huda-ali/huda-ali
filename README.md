@@ -25,70 +25,83 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 <img align="right" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Coding.gif" width="320"/>
 
-I'm a **Software Engineer** specializing in building **scalable, production-grade systems** that sit at the intersection of **full stack engineering** and **applied AI/ML**. My work is driven by a strong **product engineering mindset** — I don't just ship code, I ship outcomes.
+I'm a **Computer Science student** passionate about **Software Engineering**, **Data Science**, and **Competitive Programming**. I enjoy building full stack applications, solving algorithmic problems, and continuously learning modern software development practices.
 
-- 🏗️ **Software Engineering** — distributed systems, clean architecture, and performance-first design
-- 🤖 **AI / ML Engineering** — LLM applications, RAG pipelines, model fine-tuning, and MLOps
-- 🌐 **Full Stack Development** — end-to-end ownership from database schema to pixel-perfect UI
-- 🎯 **Product Thinking** — building for scale, reliability, and real user impact, not just feature checklists
+I'm currently focused on strengthening my skills in **ASP.NET Core**, **C#**, **Java**, **SQL Server**, and **AI fundamentals** while working on real-world projects and preparing for software engineering internships.
+
+- 💻 **Software Engineering** — clean architecture, OOP, SOLID principles, REST APIs, and backend development
+- 🌐 **Full Stack Development** — ASP.NET Core MVC, HTML, CSS, JavaScript, Bootstrap, SQL Server
+- 📊 **Data Science & AI** — Python, machine learning fundamentals, and data analysis
+- 🧩 **Problem Solving** — C++, data structures, algorithms, and problem solving
+- 🚀 **Currently Learning** — Software Design Patterns, System Design, and Cloud Technologies
 
 ```yaml
-Open To:
-  - Full-Time Software Engineering Roles
-  - AI / ML Engineering Opportunities
-  - Freelance & Contract Projects
-  - Open Source Collaboration
-  - Technical Mentorship
+Currently Looking For:
+  - Software Engineering Internships
+  - Backend Development Opportunities
+  - Open Source Contributions
+  - Collaborative Projects
 ```
 
 <br clear="right"/>
 
 ---
-
 ## 🛠️ Tech Stack
 
-**Languages**
+### Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,go&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cs,java,cpp,python,js&theme=dark" />
 </p>
 
-**Frontend**
+### Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,html,css,redux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" />
 </p>
 
-**Backend & Databases**
+### Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,postgres,mongodb,redis,graphql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js&theme=dark" />
 </p>
 
-**Cloud, DevOps & Tooling**
+### Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions,git,linux,nginx&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
 </p>
 
+### Tools & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman&theme=dark" />
+</p>
+
+### Currently Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=azure,docker&theme=dark" />
+</p>
 ---
-
-## 🤖 AI / ML Expertise
+## 💡 Technical Skills
 
 <div align="center">
 
-| Domain | Proficiency | Details |
-|:--|:--:|:--|
-| **Large Language Models** | ⭐⭐⭐⭐⭐ | Prompt engineering, fine-tuning, RAG architectures |
-| **Machine Learning** | ⭐⭐⭐⭐ | Supervised/unsupervised learning, model evaluation |
-| **Deep Learning** | ⭐⭐⭐⭐ | CNNs, Transformers, PyTorch, TensorFlow |
-| **MLOps** | ⭐⭐⭐⭐ | Model deployment, monitoring, CI/CD for ML pipelines |
-| **NLP** | ⭐⭐⭐⭐⭐ | Text classification, embeddings, vector search |
-| **Computer Vision** | ⭐⭐⭐ | Object detection, image classification pipelines |
+| Area | Skills |
+|:--|:--|
+| 💻 **Backend** | ASP.NET Core MVC, ASP.NET Core Web API, C#, Entity Framework Core, REST APIs, LINQ, OOP, SOLID |
+| 🌐 **Frontend** | HTML5, CSS3, Bootstrap, JavaScript, Responsive Web Design |
+| 🗄️ **Databases** | SQL Server, MySQL, Database Design, SQL |
+| 📊 **Data Analysis** | Python, Pandas, NumPy, Matplotlib, Data Cleaning, Data Visualization |
+| 🤖 **AI / Machine Learning** | Python, Scikit-learn, Machine Learning Fundamentals, Model Evaluation, Data Preprocessing |
+| 🧠 **Programming** | C++, Java, C#, Python, JavaScript |
+| ⚙️ **Tools** | Git, GitHub, Visual Studio, VS Code, Postman |
+| 🧩 **Problem Solving** | Data Structures, Algorithms |
 
 </div>
 
